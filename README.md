@@ -1,2 +1,17 @@
-# Heart-Disease-Data-Analyst-Project
-**Analyzed 300+ patient records using Power BI to identify heart disease risk factors, survival trends, and demographic insights. Built an interactive dashboard with KPI cards, gender-based cohort comparison, DAX measures, and visual analysis highlighting diabetes as a key mortality factor.**
+# Heart Disease Data Analysis Dashboard
+
+## Tools Used
+- Power BI
+
+## Project Overview
+Analyzed heart disease patient data to identify survival patterns, risk factors, and demographic trends using Power BI.
+
+## Key Insights
+- Analyzed 300+ patient records
+- Survival and mortality trend analysis
+- Gender-based cohort comparison
+- Diabetes impact on patient survival
+- KPI tracking using DAX measures
+- Interactive dashboard with slicers
+```
+
